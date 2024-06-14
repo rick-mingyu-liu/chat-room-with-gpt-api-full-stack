@@ -1,5 +1,7 @@
 Introduction: 
 ---------------------------------------------------------------------------------------------------------------------------------------
+this is the full stack version
+---------------------------------------------------------------------------------------------------------------------------------------
 • Implemented RTK Query for efficient API integration and utilized React Router for seamless navigation within the application
 
 • Integrated Chat Engine to build a dynamic chat application interface and employed Redux Toolkit for robust state management across the platform
